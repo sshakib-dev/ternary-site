@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "title": "Artificial Intelligence",
+      "description": "Leverage AI to automate tasks and gain insights."
+    },
+    {
+      "id": 2,
+      "title": "Cloud Transformation",
+      "description": "Transition to cloud platforms for scalability and efficiency."
+    },
+    {
+      "id": 3,
+      "title": "Cybersecurity",
+      "description": "Protect your assets with advanced cybersecurity solutions."
+    },
+    {
+      "id": 4,
+      "title": "Data & Analytics",
+      "description": "Analyze data to drive informed decision-making."
+    },
+    {
+      "id": 5,
+      "title": "Digital Commerce",
+      "description": "Enhance your online sales and e-commerce platforms."
+    },
+    {
+      "id": 6,
+      "title": "Digital Experiences",
+      "description": "Create engaging digital experiences for users."
+    },
+    {
+      "id": 7,
+      "title": "Enterprise Platforms",
+      "description": "Implement enterprise-level software solutions."
+    },
+    {
+      "id": 8,
+      "title": "Internet of Things",
+      "description": "Connect devices and systems through IoT technologies."
+    },
+    {
+      "id": 9,
+      "title": "Software Platforms",
+      "description": "Develop robust software platforms for your business needs."
+    }
+  ]
+  

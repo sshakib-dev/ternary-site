@@ -1,0 +1,123 @@
+[
+    {
+      "category": "CAPABILITIES",
+      "items": [
+        {
+            "title": "Artificial Intelligence",
+            "link": "/capabilities/artificial-intelligence"
+        },
+        {
+            "title": "Cloud Transformation",
+            "link": "/capabilities/cloud-transformation"
+        },
+        {
+            "title": "Cybersecurity",
+            "link": "/capabilities/cybersecurity"
+        },
+        {
+            "title": "Data & Analytics",
+            "link": "/capabilities/data-analytics"
+        },
+        {
+            "title": "Digital Commerce",
+            "link": "/capabilities/digital-commerce"
+        },
+        {
+            "title": "Digital Experiences",
+            "link": "/capabilities/digital-experiences"
+        },
+        {
+            "title": "Enterprise Platforms",
+            "link": "/capabilities/enterprise-platforms"
+        },
+        {
+            "title": "Internet of Things",
+            "link": "/capabilities/internet-of-things"
+        },
+        {
+            "title": "Software Platforms",
+            "link": "/capabilities/software-platforms"
+        },
+        {
+            "title": "Hardware Platforms",
+            "link": "/capabilities/hardware-platforms"
+        }
+        ]
+    },
+    {
+        "category": "SOLUTIONS",
+        "items": [
+            {
+                "title": "Engineering Augmentation",
+                "link": "/solutions/engineering-augmentation"
+            },
+            {
+                "title": "Product Development",
+                "link": "/solutions/product-development"
+            },
+            {
+                "title": "Consulting and Advisory",
+                "link": "/solutions/consulting-and-advisory"
+            }
+        ]
+    },
+    {
+        "category": "STORIES",
+        "items": [
+            {
+                "title": "Holcim",
+                "link": "/stories/holcim"
+            },
+            {
+                "title": "Alley Analytix",
+                "link": "/stories/alley-analytix"
+            },
+            {
+                "title": "Counterfoil",
+                "link": "/stories/counterfoil"
+            },
+            {
+                "title": "Turfly",
+                "link": "/stories/turfly"
+            }
+        ]
+    },
+    {
+        "category": "CAREERS",
+        "items": [
+            {
+                "title": "Careers",
+                "link": "/careers"
+            },
+            {
+                "title": "Opportunities",
+                "link": "/careers/opportunities"
+            }
+        ]
+    },
+    {
+        "category": "COMPANY",
+        "items": [
+            {
+            "title": "Our Story",
+            "link": "/about"
+            },
+            {
+                "title": "Get in Touch",
+                "link": "/contact"
+            },
+            {
+                "title": "Privacy Policy",
+                "link": "/legal/privacy-policy"
+            },
+            {
+                "title": "Terms of Service",
+                "link": "/legal/terms-of-service"
+            },
+            {
+                "title": "Modern Slavery Statement",
+                "link": "/legal/modern-slavery-statement"
+            }
+        ]
+    }
+]
